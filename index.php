@@ -65,7 +65,7 @@
      
                 <div class="info"><br />
                       <?php print($_SERVER['SERVER_SOFTWARE']); ?><br />
-                      PHP version: <?php print phpversion(); ?>   <span><a title="phpinfo()" href="/?q=info">info</a></span><br />
+                      PHP versión: <?php print phpversion(); ?>   <span><a title="phpinfo()" href="/?q=info">info</a></span><br />
                       Document Root: <?php print ($_SERVER['DOCUMENT_ROOT']); ?><br />
 
                 </div>
