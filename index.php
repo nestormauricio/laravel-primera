@@ -72,6 +72,7 @@
                 <div class="opt">
                   <div><a title="Getting Started" href="https://laragon.org/docs">Getting Started</a></div>
                 </div>
+                <div class="title" title="Laragon">LaragÓn</div>                
             </div>
 
         </div>
