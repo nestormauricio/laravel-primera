@@ -61,7 +61,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title" title="Laragon">Laragon - Updated</div>
+                <div class="title update-title" title="Laragon">Laragon - Updated</div>
      
                 <div class="info"><br />
                       <?php print($_SERVER['SERVER_SOFTWARE']); ?><br />
